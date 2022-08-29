@@ -1,0 +1,23 @@
+{
+  "name": "showmehost",
+  "version": "1.0.0",
+  "description": "It shows you about host that it's running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xodwkx2/ShowMeHost.git"
+  },
+  "author": "xodwkx2@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xodwkx2/ShowMeHost/issues"
+  },
+  "homepage": "https://github.com/xodwkx2/ShowMeHost#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
